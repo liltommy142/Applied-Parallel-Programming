@@ -1,38 +1,21 @@
-# 🚀 Applied Parallel Programming
+# 🚀 Lập Trình Song Song Ứng Dụng
 
-Bài tập & project môn **Lập trình Song song Ứng dụng**.
-
-## 🛠️ Tech Stack
-- Python 3.x (Google Colab / Jupyter Notebook)
-- `threading` — Lập trình đa luồng
-- `multiprocessing` — Lập trình đa tiến trình
-- `concurrent.futures` — Xử lý song song cấp cao
-- `asyncio` — Lập trình bất đồng bộ
+Repo lưu trữ tài liệu, bài giảng, bài tập và đồ án môn **Lập trình Song song Ứng dụng**.
 
 ## 📂 Cấu trúc
 
 | Thư mục | Nội dung |
 |---|---|
-| `Week01_Introduction/` | Giới thiệu lập trình song song |
-| `Week02_Threading/` | Đa luồng với `threading` |
-| `Week03_Multiprocessing/` | Đa tiến trình với `multiprocessing` |
-| `Week04_AsyncIO/` | Bất đồng bộ với `asyncio` |
-| `Assignments/` | Bài tập lớn |
-| `MidTerm/` | Bài thi giữa kỳ |
-| `Final/` | Đồ án cuối kỳ |
+| `General/` | Đề cương, thông tin chung môn học |
+| `Lectures/` | Slide bài giảng và tài liệu học tập |
+| `Project/` | Đồ án giữa kỳ & cuối kỳ |
+| `Lab/` | Bài tập thực hành (Homework) |
+
+## 🛠️ Tech Stack
+- Python 3.x — Google Colab
+- `CuPy` — GPU computing
+- `threading`, `multiprocessing`, `concurrent.futures`
+- `asyncio`
 
 ## ▶️ Chạy notebook
-
-### Google Colab
-1. Mở file `.ipynb` bất kỳ
-2. Click **"Open in Colab"** hoặc upload lên [colab.research.google.com](https://colab.research.google.com)
-
-### Jupyter Notebook (local)
-```bash
-pip install jupyter
-jupyter notebook
-```
-
-## 📌 Ghi chú
-- Tất cả bài tập được viết và chạy trên **Google Colab**
-- Mỗi folder theo tuần chứa notebook `.ipynb` tương ứng
+Mở file `.ipynb` trên [Google Colab](https://colab.research.google.com) để chạy với GPU miễn phí.
