@@ -4,3 +4,51 @@
 *.ptx
 *.cubin
 *.fatbin
+
+# ===== PYTHON =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+.eggs/
+
+# ===== JUPYTER / COLAB =====
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+*.nbconvert
+
+# ===== ENVIRONMENT =====
+.env
+.venv/
+env/
+venv/
+ENV/
+.python-version
+
+# ===== IDE =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*.suo
+*.user
+
+# ===== OS =====
+.DS_Store
+.DS_Store?
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# ===== DATA (bỏ comment nếu không muốn push dataset) =====
+# *.csv
+# *.xlsx
+# *.json
+# *.pkl
+# *.h5
