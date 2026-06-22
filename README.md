@@ -1,6 +1,4 @@
-# ALPP
-LẬP TRÌNH SONG SONG ỨNG DỤNG
-a# 🚀 Applied Parallel Programming
+# 🚀 Applied Parallel Programming
 
 Bài tập & project môn **Lập trình Song song Ứng dụng**.
 
