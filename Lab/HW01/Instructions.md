@@ -17,7 +17,7 @@ HW01/
 ├── Instructions.md   # File này
 ├── src/              # Mã nguồn bài làm
 │   └── hw01.ipynb
-└── data/             # Ảnh/dữ liệu mẫu
+└── ...
 ```
 
 ## ▶️ Chạy
